@@ -52,7 +52,7 @@
 <h2 align="left">Activites:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarzen&show_icons=true&locale=en&layout=compact" alt="omarzen" /></p>
 
-<p>&nbsp;<br><img align="right" src="https://github-readme-stats.vercel.app/api?username=omarzen&show_icons=true&locale=en" alt="omarzen" /></p>
+<p>&nbsp;<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=omarzen&show_icons=true&locale=en" alt="omarzen" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzen&" alt="omarzen" /></p>
 
