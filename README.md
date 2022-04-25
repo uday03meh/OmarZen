@@ -49,10 +49,10 @@
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/OmarZen/Actions/blob/output/github-contribution-grid-snake.svg)
 
-<h2 align="left">Activites:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarzen&show_icons=true&locale=en&layout=compact" alt="omarzen" /></p>
+<h2 align="left">Activites:</h2><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarzen&show_icons=true&locale=en&layout=compact" alt="omarzen" /></p><br>
 
-<p>&nbsp;<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=omarzen&show_icons=true&locale=en" alt="omarzen" /></p>
+<p>&nbsp;<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=omarzen&show_icons=true&locale=en" alt="omarzen" /></p><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzen&" alt="omarzen" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzen&" alt="omarzen" /></p><br>
 
