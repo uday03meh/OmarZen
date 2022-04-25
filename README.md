@@ -48,9 +48,9 @@
 <p><a href="https://www.buymeacoffee.com/Buy me a coffee "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee " /></a><a href="https://ko-fi.com/Ko-fi Omar Waleed"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi Omar Waleed" /></a></p><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarzen&show_icons=true&locale=en&layout=compact" alt="omarzen" /></p><br>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarzen&show_icons=true&locale=en&layout=compact" alt="omarzen" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarzen&show_icons=true&locale=en" alt="omarzen" /></p><br>
+<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarzen&show_icons=true&locale=en" alt="omarzen" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzen&" alt="omarzen" /></p>
+<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzen&" alt="omarzen" /></p>
 
