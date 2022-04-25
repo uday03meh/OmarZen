@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Waleed</h1>
 <h3 align="center">A Junior Full-Stack developer from Egypt</h3>
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarzen&label=Profile%20views&color=0e75b6&style=flat" alt="omarzen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarzen" alt="omarzen" /></a> </p>
