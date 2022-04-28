@@ -47,6 +47,11 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif.dark](https://github.com/OmarZen/OmarZen/blob/main/github-user-contribution.svg)
+<!-- - name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.0.0-rc.2 -->
+<!--   ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only) -->
+
 
 <h2 align="left">Activites:</h2><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarzen&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="omarzen" /></p><br>
