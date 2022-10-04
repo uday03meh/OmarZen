@@ -43,7 +43,7 @@ https://readme-typing-svg.herokuapp.com/demo/ - for typing gif thing
 
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif.dark](https://github.com/OmarZen/OmarZen/blob/main/github-user-contribution.svg)
+![snake gif.dark](https://github.com/uday03meh/uday03meh/blob/main/github-user-contribution.svg)
 <!-- - name: generate-snake-game-from-github-contribution-grid
   uses: Platane/snk@v2.0.0-rc.2 -->
 <!--   ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
