@@ -26,6 +26,8 @@
 <a href="https://www.linkedin.com/in/udaymehtani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday's linkedin" height="30" width="40" /></a>
 </p>
 
+## Watch my contributions get eaten by a snake 🐍
+
 ![snake gif](https://github.com/OmarZen/Actions/blob/output/github-contribution-grid-snake.svg)
 <!--
 https://readme-typing-svg.herokuapp.com/demo/ - for typing gif thing
@@ -40,12 +42,4 @@ https://readme-typing-svg.herokuapp.com/demo/ - for typing gif thing
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-## Watch my contributions get eaten by a snake 🐍
-![snake gif.dark](https://github.com/OmarZen/OmarZen/blob/main/github-user-contribution.svg)
-<!-- - name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2 -->
-<!--   ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only) -->
 
